@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JuliaProjectSettings">
+    <option name="basePath" value="C:\Julia\Julia-1.7.0-rc2\share\julia\base" />
+    <option name="enableSciMode" value="true" />
+    <option name="exePath" value="C:\Julia\Julia-1.7.0-rc2\bin\julia.exe" />
+    <option name="version" value="1.7.0-rc2" />
+  </component>
+</project>
